@@ -17,6 +17,11 @@
             4e800421 80170000 5403001e 3c03f700
         </data>
     </symbol>
+    <symbol name="PADRead" size="0x2e0" offset="0x24c" >
+        <data>
+            4e800421 a0130000 540004a5 41820040
+        </data>
+    </symbol>
     <symbol name="PADControlMotor" size="0xb8" offset="0x64" >
         <data>
             3c608000 880330e3 540006b5 41820008
